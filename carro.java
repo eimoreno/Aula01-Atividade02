@@ -1,6 +1,6 @@
 public class carro {
 	
-	private float quilometragem;
+	private float quilometragem, teste, teste2;
 	private float tanque, capacidade;
 	
 	public carro(int cpde) {
