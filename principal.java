@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class principal {
 	
 	public static void main(String args []) {
-		Carro pehDePano = new Carro(65);
+		carro pehDePano = new carro(65);
 		Scanner input = new Scanner(System.in);
 		
 		int opcao=0;
